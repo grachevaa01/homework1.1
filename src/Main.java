@@ -37,11 +37,11 @@ public class Main { //
     var secondBoxer = 82.7;
     System.out.println(82.7);
     var stuffWeight = firstBoxer + secondBoxer;
-    System.out.println("Общий вес" + stuffWeight);
+    System.out.println("Общий вес " + stuffWeight);
     var differenceWeight = secondBoxer - firstBoxer;
-    System.out.println("Разница в весе" + differenceWeight);
+    System.out.println("Разница в весе " + differenceWeight);
     var overload = (firstBoxer - secondBoxer) %stuffWeight;
-    System.out.println("Разница в " + overload + "кг !");
+    System.out.println("Разница в " + overload + " кг !");
     var totalHours = 640;
     System.out.println(totalHours);
     var oneEmployee = 8;
